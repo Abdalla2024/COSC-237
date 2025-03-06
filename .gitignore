@@ -1,0 +1,12 @@
+# macOS system files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Review materials
+Final Review/
+Exam 2 Review/
+*final review*
+*exam 2 review*
